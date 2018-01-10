@@ -1,0 +1,33 @@
+.user-box{
+    height:80px;
+    line-height: 80px;
+    /*background-color: red;*/
+}
+.user-box a {
+    float: right;
+    margin-right:20px;
+}
+.content-view .title {
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.content-view .content-text {
+    width: 800px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+.content-view  .author {
+    width: 800px;
+    margin: 10px auto;
+    font-size: 12px;
+    padding-bottom: 10px;
+    /* border-bottom: 1px solid #465463; */
+}
+.greadiant{
+    width: 800px;
+    height: 2px;
+    margin:0 auto 10px;
+    background-image: linear-gradient(to left,transparent 0%,#465463 15%,#465463 85%,transparent 100%);
+    
+}

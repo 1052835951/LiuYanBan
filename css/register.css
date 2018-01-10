@@ -1,0 +1,57 @@
+.login{
+    margin-top: 50px;
+}
+.login div {
+    font-size: 20px;
+    width:450px;
+    margin: 10px auto;
+    line-height: 40px;
+    position: relative;
+}
+.text-input{
+    width: 300px;
+    height:40px;
+    box-sizing: border-box;
+    border:1px solid #556b82;
+    border-radius: 5px;
+    outline: none;
+    font-size: 25px;
+    float: right;
+}
+.btn-login{
+    height:30px;
+    box-sizing: border-box;
+    width:100px;
+    border:1px solid #556b82;
+    border-radius: 3px;
+    outline: none;
+    margin-top: 20px;
+    background-color: #445362;
+    color: #fff;
+}
+.join-us{
+    height:50px;
+    width: 300px;
+    font-size: 14px;
+    margin:30px auto;
+
+}
+#male{
+    margin-left: 85px;
+}
+.file{
+    margin-left: 85px;
+}
+
+
+.warning {
+    position: absolute;
+    right: -315px;
+    top: 0;
+    height: 40px;
+    line-height: 40px;
+    width: 300px;
+    background-color: red;
+    border:2px solid red;
+    border-radius: 5px;
+}

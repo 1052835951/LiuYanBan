@@ -1,0 +1,74 @@
+.login{
+    margin-top: 50px;
+    position: relative;
+}
+.login div {
+    font-size: 20px;
+    width:310px;
+    margin: 0 auto;
+    color: #686e78;
+}
+.text-input{
+    width: 300px;
+    height:40px;
+    box-sizing: border-box;
+    border:1px solid #556b82;
+    border-radius: 5px;
+    outline: none;
+    font-size: 25px;
+}
+.btn-login{
+    height:30px;
+    box-sizing: border-box;
+    width:100px;
+    border:1px solid #556b82;
+    border-radius: 3px;
+    outline: none;
+    margin-top: 20px;
+    background-color: #445362;
+    color: #fff;
+}
+.join-us{
+    height:43px;
+    width: 430px;
+    font-size: 14px;
+    margin:30px auto;
+    background-image: linear-gradient(45deg,#686e78 0%,#686e78 25%,#c5c9d3 25%,#c5c9d3 50%,#686e78 50%,#686e78 75%,#c5c9d3 75%,#c5c9d3 100%);
+    background-size:10% 100%;
+}
+.join-us p {
+    margin-right: 20px;
+}
+.login div .under-line{
+    height: 2px;
+    width: 100%;
+    background-image: linear-gradient(to left,#c5c9d3 0%,#686e78 25%,#686e78 25%,#686e78 75%,#686e78 75%,#c5c9d3 100%);
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.login div .font-login {
+    text-align: center;
+    font-family: 'Brush Script Std';
+    color: #686e78;
+}
+.login div p span{
+    color: #686e78;
+    font-family: 'Giddyup Std';
+    font-size: 14px;
+}
+.login .box-left{
+    width: 5px;
+    height: 365px;
+    background-image: linear-gradient(to left,transparent,#686e78);
+    position: absolute;
+    left: 275px;
+    top: -50px;
+}
+.login .box-right{
+    width: 5px;
+    height: 365px;
+    background-image: linear-gradient(to right,transparent,#686e78);
+    position: absolute;
+    right: 275px;
+    top: -50px;
+}

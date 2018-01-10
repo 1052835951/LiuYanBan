@@ -1,0 +1,60 @@
+.index-content li {
+    width: 310px;
+    height:300px;
+    box-sizing: border-box;
+    padding: 10px 30px;
+    border-top: 3px solid #5b7583;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 16px;
+    background-color: #c1c5d1;
+    position: relative;
+    float: left;
+    box-shadow: 1px 1px 5px rgba(0,0,0,.5);
+}
+.index-content li .title{
+    text-align: center;
+    box-sizing: border-box;
+    height: 22px;
+    width: 250px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    overflow: hidden;
+}
+.index-content li .content {
+    padding: 10px;
+    font-size: 14px;
+    overflow: hidden;
+    height: 170px;
+}
+.index-content li .author{
+    width:100%;
+    position: absolute;
+    bottom:10px;
+    left:0;
+    line-height: 50px;
+
+}
+.index-content li .author img{
+    float: right;
+    height:50px;
+    width:50px;
+    border-radius: 50%;
+    margin-right: 30px;
+    box-shadow: 2px 2px 5px 2px rgba(0,0,0,.5);
+
+}
+.index-content li .author span  {
+    color: #272833;
+    font-size: 14px;
+    margin-left: 20px;
+
+}
+.shadow-box{
+    height: 1px;
+    width: 250px;
+    background-image: linear-gradient(to left,transparent 0%,#445362 25%,#445362 75%,transparent 100%)
+}
+
+

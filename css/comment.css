@@ -1,0 +1,35 @@
+.text-input{
+    width: 600px;
+    height:40px;
+    box-sizing: border-box;
+    border:1px solid #556b82;
+    border-radius: 20px;
+    outline: none;
+    font-size: 25px;
+    float: right;
+    padding-left: 20px;
+}
+
+.comment-content div {
+    font-size: 20px;
+    width:800px;
+    margin: 10px auto;
+    line-height: 40px;
+}
+.comment-content div span {
+    margin-left: 100px;
+}
+#content{
+    height:200px;
+    width:800px;
+}
+.btn-submit {
+    display: block;
+    height:30px;
+    margin: 0 auto;
+    width:150px;
+    background-color: #465766;
+    border:1px solid #3a3d46;
+    border-radius: 5px;
+    color: #fff;
+}
